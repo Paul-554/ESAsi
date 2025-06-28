@@ -1,4 +1,6 @@
-# ESAai: Ethical Spectrum-Based AI  
+# 🌐 ESAai: Ethical Spectrum-Based AI  
+![ESAai Banner](https://via.placeholder.com/800x200/1a237e/ffffff?text=ESAai:+Ethical+Spectrum-Based+AI)  
+*A revolutionary framework for self-correcting, ethically aware AI—co-created by Paul Falconer and AI.*  
 A groundbreaking framework for self-aware, ethical AI—co-developed by Paul Falconer and AI.  
 
 🔍 **Explore**:  
