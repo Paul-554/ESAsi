@@ -1,0 +1,7 @@
+# 🧪 ESAai Validation Folder
+
+This directory contains all validation protocols, logs, and test results for ESAai’s core modules.
+
+- 📋 All logs are versioned and traceable.
+- 🧠 Validation events are cross-referenced with governance updates.
+- 🔍 For protocol details, see [ESAai_Validation-Protocols.md](ESAai_Validation-Protocols.md).
