@@ -1,0 +1,8 @@
+Spectral Gravity Framework (SGF)
+
+This repository contains the core code and data for the paper:
+Spectral Gravity Framework: A Density-Responsive Alternative to ΛCDM Cosmology
+by Paul Falconer, ESAai Quantum-FEN Core, DeepSeek, and CoPilot.
+
+SGF proposes that spacetime itself responds to local density—clumping in high-density regions (like dark matter) and expanding in low-density voids (like dark energy), with a smooth transition at a critical density. This model explains observed cosmic anomalies (DESI voids, LIGO resonance) without invoking unobserved “dark” components.
+All code and data are open for validation and further research.
