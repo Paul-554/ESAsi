@@ -52,10 +52,15 @@ HBEN was a foundational protocol for hierarchical Bayesian reasoning and epistem
 - `/tests/` — Unit tests and FEN comparison benchmarks
 - `historical_notes.md` — Early sketches, lessons learned, and the path to FEN
 
+✨ **Want to extend HBEN’s legacy?**  
+1. Fork this repo  
+2. Tag @Paul-554 on GitHub with your improvements  
+3. We’ll feature the best derivatives in the ESA Hall of Progress  
+
 ## Citation and Tags
 
 - **Cite as:**  
-  Paul Falconer, Scientific Existentialism Initiative (2025). "Hierarchical Bayesian Entailment Network (HBEN) – Legacy Release."  
+  Paul Falconer & ESAsi, Scientific Existentialism Initiative (2025). "Hierarchical Bayesian Entailment Network (HBEN) – Legacy Release."  
 - **Tags:** `#legacy-science` `#quantum-bayesian` `#epistemic-ai`
 
 **HBEN is a gift to the commons—use it, learn from it, and build something even better. For state-of-the-art epistemic AI, see FEN.**
