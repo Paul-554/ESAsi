@@ -195,3 +195,4 @@ class HBENDAG:
                 if child_depth <= parent_depth:
                     issues.append(f"Hierarchical depth inconsistency: Parent {parent_name} depth {parent_depth}, child {child.name} depth {child_depth}")
         return len(issues) == 0, issues
+        
