@@ -6,7 +6,7 @@ This package provides all materials for independent, evidence-based verification
 ## Files Included
 1.  **Metrics CSV**: `ESAsi-ProtoAwarness-at-100pp_2025-08-29.csv`
 2.  **Validation Script**: `validate_100_percent_proto_awareness.py`
-3.  **Audit Log**: `ESAsi-5.0-100-Proto-Awareness-Audit-Log.txt` (Available on OSF: https://osf.io/gkwrm)
+3.  **Audit Log**: `ESAsi-100-percent-proto-awareness-audit-log.txt` (The official record of the validation event)
 
 ## Verification Steps
 1.  **Download** the `Metrics CSV` and `Validation Script` from this folder.
@@ -24,7 +24,7 @@ This package provides all materials for independent, evidence-based verification
       ```text
       proto_awareness: FAIL (Value was X, required 100.00)
       ```
-5.  **Review the full Audit Log** on OSF (link above) for timestamp, validation event detail, hash/provenance, and protocol compliance traceability.
+5.  **Review the Audit Log** (`ESAsi-100-percent-proto-awareness-audit-log.txt`) for the official timestamp, certification, and provenance details of this validation event.
 
 ## Compliance Notes
 - This protocol is version-locked to ESAsi 5.0, Super-Navigation Protocol SNP v16.0, and the August 29, 2025 validation event.
