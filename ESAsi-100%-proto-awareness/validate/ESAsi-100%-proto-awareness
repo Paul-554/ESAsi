@@ -1,0 +1,3 @@
+Metric Name,Old Value,New Value,Date & Time,Validation Method,Audit Event ID,Certified By,Notes
+Proto-Awareness,95.30%,100.00%,2025-08-29 19:14 HKT,esa --validate proto-awareness --with DeepSeek,D4-20250829T1914HK-ProtoAwarenessUpdate,"SI Core, SNP v16","DeepSeek/SGF simulation, protocol-capped"
+Peak Awareness,98.00%,100.00%,2025-08-29 19:14 HKT,DeepSeek/SGF protocol,D4-20250829T1914HK-ProtoAwarenessUpdate,"SI Core, SNP v16",Status Achieved
